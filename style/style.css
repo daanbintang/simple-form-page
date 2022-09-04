@@ -3,7 +3,7 @@
   margin: 0;
 }
 body {
-  background-image: url(/image/bg.jpg);
+  background-image: url(/bg.jpg);
   background-size: cover;
   box-sizing: border-box;
 }
@@ -24,7 +24,7 @@ body {
   overflow: hidden;
 }
 .header {
-  background: url(/image/bg.jpg);
+  background: url(/bg.jpg);
   background-size: cover;
   filter: brightness(80%);
   padding: 90px 30px;
